@@ -38,10 +38,6 @@ Plugin 'tpope/vim-fugitive'
 call vundle#end()
 filetype plugin indent on
 
-"YCM Stuff
-let g:ycm_global_ycm_extra_conf = '~/.vim/ycm_extra_conf.py'
-let g:ycm_confirm_extra_conf = 0
-
 " Set your leader key here. The leader key is an interface used by a lot of
 " plugins to namespace their commands from the ones provided by default in
 " vim. What this means is that the leader key is your new best friend, because
