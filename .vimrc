@@ -103,7 +103,7 @@ colorscheme molokai
 
 " Notifies vim of your terminal background preferences. This changes the
 " behavior of the colorscheme to enhance contrast.
-set background=light
+set background=dark
 
 " Line numbering. To disable, run :set nonumber.
 set number
