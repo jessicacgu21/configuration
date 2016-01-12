@@ -28,7 +28,7 @@ call vundle#begin()
 " Plugin 'bling/vim-airline'
 
 Plugin 'gmarik/Vundle.vim'
-Plugin 'Valloric/YouCompleteMe'
+" Plugin 'Valloric/YouCompleteMe'
 Plugin 'bling/vim-airline'
 Plugin 'tomasr/molokai'
 Plugin 'scrooloose/nerdtree'
